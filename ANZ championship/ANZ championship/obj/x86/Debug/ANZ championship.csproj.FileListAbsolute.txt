@@ -1,0 +1,16 @@
+\\phoenix.ecs.vuw.ac.nz\shaabaahme\visual studio 2010\Projects\ANZ championship\ANZ championship\obj\x86\Debug\ANZ_championship.Properties.Resources.resources
+\\phoenix.ecs.vuw.ac.nz\shaabaahme\visual studio 2010\Projects\ANZ championship\ANZ championship\obj\x86\Debug\ANZ championship.csproj.GenerateResource.Cache
+\\phoenix.ecs.vuw.ac.nz\shaabaahme\visual studio 2010\Projects\ANZ championship\ANZ championship\bin\Debug\ANZ championship.exe
+\\phoenix.ecs.vuw.ac.nz\shaabaahme\visual studio 2010\Projects\ANZ championship\ANZ championship\bin\Debug\ANZ championship.pdb
+\\phoenix.ecs.vuw.ac.nz\shaabaahme\visual studio 2010\Projects\ANZ championship\ANZ championship\obj\x86\Debug\ANZ championship.exe
+\\phoenix.ecs.vuw.ac.nz\shaabaahme\visual studio 2010\Projects\ANZ championship\ANZ championship\obj\x86\Debug\ANZ championship.pdb
+\\phoenix.ecs.vuw.ac.nz\shaabaahme\visual studio 2010\Projects\ANZ championship\ANZ championship\obj\x86\Debug\ANZ_championship.ReadFile.resources
+\\phoenix.ecs.vuw.ac.nz\shaabaahme\visual studio 2010\Projects\ANZ championship\ANZ championship\obj\x86\Debug\ANZ championship.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\ANZ championship\ANZ championship\obj\x86\Debug\ANZ championship.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\ANZ championship\ANZ championship\obj\x86\Debug\ANZ championship.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\ANZ championship\ANZ championship\bin\Debug\ANZ championship.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\ANZ championship\ANZ championship\bin\Debug\ANZ championship.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\ANZ championship\ANZ championship\obj\x86\Debug\ANZ championship.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\ANZ championship\ANZ championship\obj\x86\Debug\ANZ_championship.ReadFile.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\ANZ championship\ANZ championship\obj\x86\Debug\ANZ_championship.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\ANZ championship\ANZ championship\obj\x86\Debug\ANZ championship.csproj.GenerateResource.Cache
